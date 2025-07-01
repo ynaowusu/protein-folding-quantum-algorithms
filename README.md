@@ -1,2 +1,22 @@
 # Protein-folding-quantum-algorithms
 Hybrid quantum-classical simulations of protein folding on simplified lattice models. Implements the CVaR-optimized Variational Quantum Eigensolver (VQE) from Robert et al. (2021) to predict low-energy configurations for short peptide sequences and benchmarks them against classical baselines.
+
+Team Members: Elhaam Bhuiyan , Deborah Olaniyi, Yna Owusu
+
+##  Quick-start with Google Colab
+
+| | |
+|---|---|
+| **One-click launch** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ynaowusu/protein-folding-quantum-algorithms/blob/main/notebooks/quickstart.ipynb) |
+
+### 1 Open the notebook
+Click the badge above or open `notebooks/quickstart.ipynb` in Colab.  
+Every cell can be run top-to-bottom without edits.
+
+### 2 Clone the repository <small>(first code cell)</small>
+```python
+!git clone https://github.com/ynaowusu/protein-folding-quantum-algorithms.git
+%cd protein-folding-quantum-algorithms
+
+
+
