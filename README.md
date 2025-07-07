@@ -7,7 +7,7 @@ Team Members: Elhaam Bhuiyan , Deborah Olaniyi, Yna Owusu
 
 | | |
 |---|---|
-| **One-click launch** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ynaowusu/protein-folding-quantum-algorithms/blob/main/notebooks/quickstart.ipynb) |
+| **One-click launch** | [![Open in Colab](https://colab.research.google.com/drive/1wJ_bPFCPCLP0OlPeXSkbBh6xQvG39UBv) |
 
 ### 1 Open the notebook
 Click the badge above or open `notebooks/quickstart.ipynb` in Colab.  
