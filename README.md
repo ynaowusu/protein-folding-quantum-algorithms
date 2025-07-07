@@ -5,12 +5,7 @@ Team Members: Elhaam Bhuiyan , Deborah Olaniyi, Yna Owusu
 
 ##  Quick-start with Google Colab
 
-| | |
-|---|---|
-| **One-click launch** | [![Open in Colab](https://colab.research.google.com/drive/1wJ_bPFCPCLP0OlPeXSkbBh6xQvG39UBv) |
-
 ### 1 Open the notebook
-Click the badge above or open `notebooks/quickstart.ipynb` in Colab.  
 Every cell can be run top-to-bottom without edits.
 
 ### 2 Clone the repository <small>(first code cell)</small>
